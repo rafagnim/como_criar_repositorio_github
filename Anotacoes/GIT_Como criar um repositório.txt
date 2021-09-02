@@ -1,0 +1,27 @@
+
+No GitHub:
+Create a new repository
+Repository name
+Description
+Public / Private (Public para que outras ppessoas possam acesar)
+Add a README file (para orientar quem acessar o repositório)
+    pode ser editado no próprio GitHub
+    Sugestão site para informações sobre arquivo .md
+    markdownguide.org/basic-syntax/   []()
+    Ao alterar: commit changes
+Add .gitignore (para ignorar arquivos não essenciais ao versionamento)
+-> Create a Repository
+Code / clone (copiar para clonar na máquina)
+
+Na máquina:
+Obs.: GIT já deve estar instalado
+Selecione uma pasta na máquina:
+clique com o botão direito -> selecione Gitbash
+ou via Prompt de Comando
+digite: git clone "link copiado acima"
+git status
+Se incluir novos arquivos:
+git add .
+ou git add -a
+git commit -m "mensagem"
+git push origin main (para enviar para a nuvem)
