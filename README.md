@@ -24,7 +24,7 @@
    
    Add .gitignore (para ignorar arquivos não essenciais ao versionamento)
    
-   **-> Create a Repository**
+   __-> Create a Repository__
    
   Code / clone (copiar para clonar na máquina)    
 
