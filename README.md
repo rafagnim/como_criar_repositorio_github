@@ -14,11 +14,11 @@
   
   Add a README file (para orientar quem acessar o repositório)
   
-      pode ser editado no próprio GitHub
+  pode ser editado no próprio GitHub
       
-      Para mais informações sobre arquivo .md:
+  Para mais informações sobre arquivo .md:
       
-           [clique aqui](markdownguide.org/basic-syntax/)
+  [clique aqui](markdownguide.org/basic-syntax/)
            
    Ao alterar: commit changes
    
