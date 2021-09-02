@@ -11,13 +11,21 @@
 - Repository name
   Description
   Public / Private (Public para que outras pessoas possam acessar)
+  
   Add a README file (para orientar quem acessar o repositório)
+  
       pode ser editado no próprio GitHub
+      
       Para mais informações sobre arquivo .md:
+      
            [clique aqui](markdownguide.org/basic-syntax/)
+           
    Ao alterar: commit changes
+   
    Add .gitignore (para ignorar arquivos não essenciais ao versionamento)
+   
    **-> Create a Repository**
+   
   Code / clone (copiar para clonar na máquina)    
 
 <h3>3) Na Máquina:</h3>
