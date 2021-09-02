@@ -31,17 +31,27 @@
 <h3>3) Na Máquina:</h3>
 
 Obs.: GIT já deve estar instalado
+
 Selecione uma pasta na máquina:
+
 clique com o botão direito -> selecione *Git bash here*
+
 ou via *"Prompt de Comando"*
+
 digite: 
 
 **git clone "link copiado acima"**
 
+
 **git status**
+
 Se incluir novos arquivos:
+
 **git add .** (não esqueça de incluir o '.' (ponto)
+
 **git commit -m "mensagem"**
+
 **git push origin main** (para enviar para a nuvem)
+
 
 Toda vez que acrescentar ou alterar arquivos,  faça os comandos a partir de git status
