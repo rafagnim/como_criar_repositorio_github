@@ -1,2 +1,9 @@
-# como_criar_repositorio_github
-Como criar um repositório no GitHub
+# Como criar um repositorio no Github
+
+1) Instalar o GIT na máquina:
+   [Faça o dowload e instalação](https://git-scm.com/downloads)
+  
+2) No GitHub
+
+
+3) Na Máquina
